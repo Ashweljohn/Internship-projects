@@ -96,11 +96,11 @@ pip install -r requirements.txt
 
 
 
-## 📁 Repository Structure
+##📁 Repository Structure
 streamlit run app.py
+```
 
 👤 Author
-
 Ashwel John
 Machine Learning Internship Projects
 
